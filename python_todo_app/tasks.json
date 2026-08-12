@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Python Learning",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "AI And ML Learning",
+        "completed": false
+    }
+]
