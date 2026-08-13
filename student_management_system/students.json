@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Hassan Ghumen",
+        "age": 23,
+        "course": "Ai Engineer",
+        "marks": 99.0,
+        "grade": "A"
+    }
+]
